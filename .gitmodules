@@ -1,0 +1,18 @@
+[submodule "Assets/Scripts/interactive-objects"]
+	path = Assets/Scripts/interactive-objects
+	url = https://github.com/believable-agents/interactive-objects
+[submodule "Assets/Scripts/agents-core"]
+	path = Assets/Scripts/agents-core
+	url = https://github.com/believable-agents/agents-core
+[submodule "Assets/Scripts/agents-unity"]
+	path = Assets/Scripts/agents-unity
+	url = https://github.com/believable-agents/agents-unity
+[submodule "Assets/Scripts/sim-agents"]
+	path = Assets/Scripts/sim-agents
+	url = https://github.com/believable-agents/sim-agents
+[submodule "Assets/Scripts/sim-agents-unity"]
+	path = Assets/Scripts/sim-agents-unity
+	url = https://github.com/believable-agents/sim-agents-unity
+[submodule "Assets/Scripts/reordable-list"]
+	path = Assets/Scripts/reordable-list
+	url = https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity
