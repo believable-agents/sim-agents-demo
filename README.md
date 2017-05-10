@@ -5,7 +5,10 @@ This is a demo project for Sim Agents
 # Installation
 
 1. Follow instructions to Install LFS from: https://help.github.com/articles/installing-git-large-file-storage/
-2. Clone repository using following command: `git clone https://github.com/believable-agents/sim-agents-demo --recursive`
+2. Clone repository using following command: 
+   ```
+    git clone https://github.com/believable-agents/sim-agents-demo --recursive
+   ```
 4. Download Nodecanvas 2.6.2 from Asset Store
 5. Download DO Tween from Asset Store
 6. Delet Assets/Scripts/Reordable-List/DEMO to eliminate compilation error
